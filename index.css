@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.rooms{
+    border: 2px solid black;
+    width: 100px !important;
+    height: 100px !important;
+    flex: 0 1 auto;
+    background-size: 100% 100%;
+}
+
